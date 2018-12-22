@@ -1,0 +1,29 @@
+.products-container{
+
+   max-width: 1260px;
+   margin: 0 auto;
+   display: flex;
+   justify-content: flex-start;
+   flex-wrap: wrap;
+
+
+}
+.product-item{
+    width: 33%;
+    padding: 0 15px;
+    height: 290px;
+    margin: 2px;
+}
+.product-item-img-container{
+   width: 100%;
+   overflow: hidden;
+
+}
+.product-item-img-container img{
+    width:100%;
+
+}
+.product-item-price-container{
+
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+.advs-container{
+  max-width: 1260px;
+  margin: 0 auto;
+
+}
+.advs-img-top-container div{
+    
+    width:50%;
+    display: inline-block;
+
+}
+.advs-img-top-container div img{
+    width:100%;
+}
+.advs-img-middle-container{
+    width:100%;
+}
+.advs-img-middle-container img{
+    width:100%;
+    margin-top:20px;
+}
+.advs-img-bottom-container{
+    width:100%;
+    margin-top:20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.advs-img-bottom-container div{
+    
+    overflow: hidden;
+
+}
+.advs-img-bottom-container div img{
+    width:100%;
+}

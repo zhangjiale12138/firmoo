@@ -1,0 +1,31 @@
+.customershow-container{
+
+    max-width: 1260px;
+    margin: 50px auto;
+
+}
+.customershow-title-container{
+   
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+
+
+
+}
+
+.customershow-title-container span {
+
+    display: inline-block;
+    border-top:1px solid gray;
+    width: 40%;
+
+}
+
+.customershow-intro-container{
+
+  text-align: center;
+  
+
+}

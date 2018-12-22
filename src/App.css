@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+.slick_slider{
+  height:500px;
+}
+
+
+
+.ant-carousel .slick-slide div div img{
+  width:100%;
+}

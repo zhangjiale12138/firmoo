@@ -1,0 +1,31 @@
+.top{
+
+     background-color: black; 
+     width:100%;
+   
+}
+.nav{
+
+    color: aliceblue;
+    width:1230px;
+    margin:0 auto;
+    height:40px;
+  
+
+}
+.nav .leftSide {
+    float: left;
+    margin-top:10px;;
+}
+.nav .rightSide{
+   float: right;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.nav .rightSide li{
+    display: inline;
+    margin-right:17px; 
+}
